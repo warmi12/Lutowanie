@@ -21,7 +21,6 @@ Link do prezentacj projektu: https://youtu.be/KaiS1kktG8M
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 100 auto; max-width: 300px">
-  text-align:center
   ##
 
 <img
