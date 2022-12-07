@@ -20,8 +20,8 @@ Link do prezentacj projektu: https://youtu.be/KaiS1kktG8M
   src="im4.PNG"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
+  style="display: inline-block; margin: 0 auto; max-width: 300px; text-align: center">
+  text-align:center
   ##
 
 <img
